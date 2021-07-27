@@ -4,3 +4,5 @@
 * Eliminación de información.
 * Merge.
 * Y más. 😎
+
+Tal vez agregué algo de CSS.
